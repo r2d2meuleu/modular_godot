@@ -1,5 +1,8 @@
 # modular_godot
 
+> [!warning]
+> This Project was set up with Godot 3.5 and has not been tested with newer versions of Godot.
+
 ## A modular system to explain modular systems.
 
 This project is a long weekend (dream) project come true. While planning out a small fun presentation on modular synthesis I wondered if I can make a custom tool to spice things up. Turns out that's absolutely possible.
